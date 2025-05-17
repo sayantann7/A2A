@@ -19,7 +19,7 @@ The platform consists of:
     ```bash
     pip install fastapi uvicorn google-generativeai python-dotenv
     ```
-3. Visit https://aistudio.google.com/ and Create your Gemini API Key and store it inside 3 .env files inside user-agent, info-agent, creative-agent directories
+3. Visit https://aistudio.google.com/ and Create your Gemini API Key and store it inside 3 .env files inside coordinate-agent, risk-agent, trading-agent directories
 
 4. Start the Trading Agent:
     ```bash
